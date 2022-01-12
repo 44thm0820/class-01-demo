@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Gallery of Horns Collaborators / outside sources / avoid plagiarism
+
+ an overview of the project for a new visitor to your repo
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
